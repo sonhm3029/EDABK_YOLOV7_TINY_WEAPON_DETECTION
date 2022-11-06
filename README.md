@@ -51,3 +51,7 @@ Source code colab [tại đây](https://colab.research.google.com/drive/13FKOQen
 Model training đạt ~92% mPA-0.5.
 
 ![](./assets/static_img/result_1.png)
+
+![](./output.png)
+
+## IV Các kết quả thu được trên video
