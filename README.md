@@ -45,16 +45,43 @@ Bộ dataset này được chia ra làm tập train chiếm 80% và test chiếm
 
 Source code thực thi tại file [yolov7_tiny_weapon_detection](./yolov7_tiny_weapon_detection.ipynb)
 
-Source code colab [tại đây](https://colab.research.google.com/drive/13FKOQenCNenT6IlCqiZqFMVtg23bGM3S?usp=sharing)
+Source code colab [tại đây](https://colab.research.google.com/drive/1UTgIPA_z2zvPGF0dXFxQzWR2NTUEGoCG?usp=sharing)
 ## III. Evaluating
 
 Model training đạt ~92% mPA-0.5.
+
+File runs [tại đây](https://drive.google.com/drive/folders/1qtj-AJ2U2x3vMyS7ZqhUEOBhWUnY46mZ?usp=sharing)
 
 ![](./assets/static_img/result_1.png)
 
 ![](./output.png)
 
+### Ảnh Precision curve
+
+![](./exp11/P_curve.png)
+
+### Ảnh Recall curve
+
+![](./exp11/R_curve.png)
+
+### Ảnh Recall và Precision curve
+
+![](./exp11/PR_curve.png)
+
+### Ảnh F1 curve
+
+![](./exp11/F1_curve.png)
+
+### Ảnh confusion matrix
+
+![](./exp11/confusion_matrix.png)
+
 ## IV Các kết quả thu được trên video
 
-![Video 1](./assets/video/pistol_video_1_result.avi)
-![Video 2](./assets/video/pistol_video_2_result.avi)
+Các file .avi trong [assets](./assets/video/)
+
+[Video 1](./assets/video/pistol_video_4_result.avi)
+
+[Video 2](./assets/video/test_with_weapon_result.avi)
+
+[Video 3](./assets/video/knife_video_3_result.avi)
