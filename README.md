@@ -55,3 +55,6 @@ Model training đạt ~92% mPA-0.5.
 ![](./output.png)
 
 ## IV Các kết quả thu được trên video
+
+![Video 1](./assets/video/pistol_video_1_result.avi)
+![Video 2](./assets/video/pistol_video_2_result.avi)
