@@ -76,7 +76,10 @@ File runs [tại đây](https://drive.google.com/drive/folders/1qtj-AJ2U2x3vMyS7
 
 ![](./exp11/confusion_matrix.png)
 
-## IV Các kết quả thu được trên video
+## IV Các kết quả thu được trên ảnh ngẫu nhiên trên mạng:
+
+
+## V Các kết quả thu được trên video
 
 Các file .avi trong [assets](./assets/video/)
 
@@ -85,3 +88,8 @@ Các file .avi trong [assets](./assets/video/)
 [Video 2](./assets/video/test_with_weapon_result.avi)
 
 [Video 3](./assets/video/knife_video_3_result.avi)
+
+## VI. Nhận xét
+
+- Kêt quả thu được thực tế trên các ảnh có vũ khí không rõ nét kém
+- Kết quả nhận diện về dao tốt hơn súng vì trong tập train có chứa phần lớn là các ảnh về dao và bao gồm các ảnh không rõ nét, dao bé...
